@@ -1,0 +1,40 @@
+_repo: Horace--Odes-and-Epodes_9646
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Horace
+    alias: Horatius Flaccus, Quintus
+    birthdate: -65
+    deathdate: -8
+    gutenberg_agent_id: '1790'
+    url: http://www.gutenberg.org/2009/agents/1790
+    wikipedia: http://en.wikipedia.org/wiki/Horace
+  editors:
+  - agent_name: Laing, Gordon Jennings
+    birthdate: 1869
+    deathdate: 1945
+    gutenberg_agent_id: '40819'
+    url: http://www.gutenberg.org/2009/agents/40819
+  - agent_name: Shorey, Paul
+    birthdate: 1857
+    deathdate: 1934
+    gutenberg_agent_id: '36291'
+    url: http://www.gutenberg.org/2009/agents/36291
+description: ''
+gutenberg_bookshelf: Classical Antiquity
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9646'
+language: la
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Verse satire, Latin'
+- !lcsh 'Laudatory poetry, Latin'
+- !lcsh 'Rome -- Poetry'
+- !lcc 'PA'
+- GITenberg
+title: 'Horace: Odes and Epodes'
+url: http://www.gutenberg.org/ebooks/9646
